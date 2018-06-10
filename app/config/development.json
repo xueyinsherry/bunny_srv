@@ -1,0 +1,5 @@
+{
+	"host": "http://localhost:8080",
+	"dbURI": "mongodb://sherry:<dbpassword>@ds223760.mlab.com:23760/sherry_chatcat_db",
+	"sessionSecret": "catscanfly"
+}
